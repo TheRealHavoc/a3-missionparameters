@@ -1,0 +1,1 @@
+execVM "Scripts\handleStartingPosition.sqf";
